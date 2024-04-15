@@ -3394,5 +3394,9 @@ body{
 	font-weight: 700;
 }          
 
+/*header*/
 
+#header{
+	padding-top: 25px;
+}
 
